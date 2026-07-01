@@ -1,25 +1,53 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Hi%20I'm%20Vivek%20Lade&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=220&section=header&text=Vivek%20Lade&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00C6FF&center=true&vCenter=true&width=700&lines=PHP+Web+Developer;Laravel+Developer;CodeIgniter+4+Learner;Backend+Developer+in+Progress;Often+Failing%2C+Always+Learning" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00C6FF&center=true&vCenter=true&width=800&lines=PHP+Web+Developer;Laravel+%7C+CodeIgniter+%7C+MySQL;Backend+Developer+in+Progress;Building+Real+World+Web+Applications;Always+Learning+%26+Improving" />
 
 </div>
 
 ---
 
-## 🚀 About Me
+<div align="center">
+
+## 🚀 PHP Web Developer | Backend Developer | Laravel Learner
+
+I build **dynamic web applications, admin panels, CRUD systems, APIs, billing systems, and management software** using PHP, Laravel, CodeIgniter, and MySQL.
+
+</div>
+
+---
+
+## 👨‍💻 About Me
 
 <img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 - 👋 Hi, I’m **Vivek Lade**
-- 💼 PHP Web Developer at **Reapmind Innovations, Kolhapur**
-- 🌱 Learning **Laravel, CodeIgniter 4, REST API**
-- 💬 Ask me about **PHP, HTML, CSS, MySQL, Laravel**
-- 🎯 Goal: Become a strong **Backend Developer**
+- 💼 Working as a **PHP Web Developer**
+- 🏢 Company: **Reapmind Innovations, Kolhapur**
+- 🌱 Learning **Laravel, CodeIgniter 4, REST API, MySQL**
+- 🔥 Interested in **Backend Development**
+- 💬 Ask me about **PHP, Laravel, CodeIgniter, MySQL, HTML, CSS**
+- 🎯 Goal: Become a strong **Full Stack / Backend Developer**
 - ⚡ Motto: **Often Failing, Always Learning**
 
 <br clear="right"/>
+
+---
+
+## 💼 What I Can Build
+
+✅ Admin Panel  
+✅ CRUD Application  
+✅ Billing System  
+✅ Medical Store Management System  
+✅ Clinic Management System  
+✅ Appointment Booking System  
+✅ Login / Register System  
+✅ Role Based Access System  
+✅ REST API Development  
+✅ Database Design  
+✅ Laravel / CodeIgniter Projects  
 
 ---
 
@@ -33,11 +61,11 @@
 
 ---
 
-## 🔥 My Tech Stack Animation
+## 🔥 Tech Stack
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=500&color=F7B731&center=true&vCenter=true&width=650&lines=Frontend:+HTML+%7C+CSS+%7C+Bootstrap+%7C+JavaScript;Backend:+PHP+%7C+Laravel+%7C+CodeIgniter+4;Database:+MySQL+%7C+SQLite+%7C+phpMyAdmin;Tools:+Git+%7C+GitHub+%7C+VS+Code+%7C+Postman" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2200&pause=600&color=F7B731&center=true&vCenter=true&width=800&lines=Frontend:+HTML+%7C+CSS+%7C+Bootstrap+%7C+JavaScript;Backend:+PHP+%7C+Laravel+%7C+CodeIgniter+4;Database:+MySQL+%7C+SQLite+%7C+phpMyAdmin;Tools:+Git+%7C+GitHub+%7C+VS+Code+%7C+Postman;Server:+XAMPP+%7C+Localhost+%7C+API+Testing" />
 
 </div>
 
@@ -54,32 +82,62 @@
 
 ---
 
-## 📌 My Projects
+## 📌 Featured Projects
 
 <img align="right" width="250" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
 
 ### 🏥 Clinic Management System
+
+A complete clinic management web application with multiple panels.
+
+**Features:**
+
 - Patient Panel
 - Doctor Panel
 - Admin Panel
 - Appointment Booking
-- Razorpay Payment Integration
+- Online Payment Integration
 - Invoice Download
 - Email Reminder System
+- Jitsi Meet Integration
+
+---
 
 ### 💊 Medical Store Management System
-- Medicine Management
+
+A pharmacy management system for medicine stock, billing, and sales records.
+
+**Features:**
+
+- Medicine Add / Update / Delete
 - Billing System
 - Admin Dashboard
 - Sales Records
+- Bill History
+- Stock Management
+
+---
 
 ### 🎓 Learning Projects
-- Laravel CRUD
-- CodeIgniter 4 CRUD
+
+- Laravel CRUD Application
+- CodeIgniter 4 CRUD Application
 - Firebase to MySQL Migration
 - Referral Reward API
+- Login / Register System
+- Forgot Password OTP Flow
 
 <br clear="right"/>
+
+---
+
+## 📚 Currently Learning
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=700&color=38BDF8&center=true&vCenter=true&width=750&lines=Laravel+Advanced+Concepts;CodeIgniter+4+Project+Development;REST+API+Development;MySQL+Database+Design;Git+and+GitHub+Workflow;Backend+Developer+Roadmap" />
+
+</div>
 
 ---
 
@@ -105,11 +163,31 @@
 
 ---
 
-## 🐍 Contribution Snake Animation
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ladevivek33/ladevivek33/output/snake.svg" alt="Snake Animation" />
+<img src="https://github-profile-trophy.vercel.app/?username=ladevivek33&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ladevivek33&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
+## 🧑‍💻 Developer Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
 </div>
 
@@ -131,6 +209,8 @@
 
 ---
 
+## 👀 Profile Views
+
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=ladevivek33&label=Profile%20Views&color=blue&style=for-the-badge" />
@@ -141,6 +221,10 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=120&section=footer" />
+### ⭐ Thank you for visiting my GitHub profile ⭐
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00C6FF&center=true&vCenter=true&width=700&lines=Let's+Build+Something+Amazing;Keep+Learning+Keep+Growing;Code+%7C+Learn+%7C+Improve" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=130&section=footer" />
 
 </div>
